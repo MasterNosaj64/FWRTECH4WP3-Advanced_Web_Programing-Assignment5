@@ -1,4 +1,4 @@
-#Advanced Web Programing - Assignment 5 - SFWRTECH4AI3 - McMaster University - Software Engineering
+#Advanced Web Programing - Assignment 5 - SFWRTECH4WP3 - McMaster University - Software Engineering
 
 Primary Objectives: 
 - Implement the model-view-controller (MVC) design pattern and create an application with CRUD (Create, Read, Update, Delete) database features.
